@@ -1,0 +1,7 @@
+{
+    "Name": "EmoEEG-MC: A Multi-Context Emotional EEG Dataset for Cross-Context Emotion Decoding",
+    "BIDSVersion": "1.6.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": ["Xin XU", "Xinke SHEN", "Xuyang CHEN", "Qingzhu ZHANG", "Sitian WANG", "Yihan LI", "Zongsheng LI", "Dan ZHANG", "Mingming ZHANG", "Quanying LIU"]
+}
