@@ -24,5 +24,9 @@
     ],
     "EthicsApprovals": [
         "the Medical Ethics Committee of Southern University of Science and Technology (Project No.20220174)"
+    ],
+    "ReferencesAndLinks": [
+        "Chen, J. et al. A Large Finer-grained Affective Computing EEG Dataset. Sci. Data 10, 740, 10.1038/s41597-023-02650-w (2023)",
+        "Nummenmaa, L., Glerean, E., Hari, R. & Hietanen, J. K. Bodily maps of emotions. Proc. Natl. Acad. Sci. 111, 646–651, 10.1073/pnas.1321664111 (2014). https://www.pnas.org/doi/pdf/10.1073/pnas.1321664111"
     ]
 }
