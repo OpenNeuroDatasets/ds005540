@@ -1,0 +1,16 @@
+{
+    "participant_id": {
+        "Description": "Unique identifier for each participant in the study."
+    },
+    "age": {
+        "Description": "Age of the participant at the time of the experiment.",
+        "Units": "years"
+    },
+    "gender": {
+        "Description": "Gender of the participant.",
+        "Levels": {
+            "M": "Male",
+            "F": "Female"
+        }
+    }
+}
