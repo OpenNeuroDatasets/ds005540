@@ -1,0 +1,11 @@
+{
+    "Name": "GSR",
+    "Description": "Galvanic Skin Response data recorded during emotion task.",
+    "SamplingFrequency": 40,
+    "StartTime": 1694845810,
+    "Columns": [
+        "GSR",
+        "csv_time_GSR"
+    ],
+    "BIDSVersion": "1.6.0"
+}
