@@ -1,0 +1,22 @@
+{
+    "TaskName": "emotion",
+    "TaskDescription": "Emotion task experiment",
+    "Instructions": "Participants responded to emotional stimuli under video and imagery contexts.",
+    "PowerLineFrequency": 50,
+    "SamplingFrequency": 600,
+    "EEGChannelCount": 64,
+    "TriggerChannelCount": 4,
+    "EEGPlacementScheme": "10-20 system",
+    "EEGGround": "AFz",
+    "EEGReference": "common",
+    "HardwareFilters": "n/a",
+    "SoftwareFilters": {
+        "HighpassFilter": {
+            "cutoff": "0.5 (Hz)"
+        },
+        "LowPassFilter": {
+            "cutoff": "47 (Hz)"
+        }
+    },
+    "RecordingType": "continuous"
+}
