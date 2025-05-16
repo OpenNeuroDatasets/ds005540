@@ -1,0 +1,14 @@
+1.0.6 2025-05-16
+  - Add timing information for eeg .edf files in README.md
+1.0.5 2025-05-13
+  - Add trigger related information in README.md
+1.0.4 2024-11-18
+  - We add the guidence for labels in READNE.md.
+1.0.3 2024-10-07
+  - We add some References and Links
+1.0.2 2024-10-07
+  - We add some preprocessing code.
+1.0.1 2024-10-05
+  - We edited Acknowledgements, Funding and Ethics Approvals.
+1.0.0 2024-10-05
+  - The first version
