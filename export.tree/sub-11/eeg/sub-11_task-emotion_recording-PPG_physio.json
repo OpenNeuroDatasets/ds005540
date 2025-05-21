@@ -1,0 +1,11 @@
+{
+    "Name": "PPG",
+    "Description": "Photoplethysmography data recorded during emotion task.",
+    "SamplingFrequency": 20,
+    "StartTime": 1695120000,
+    "Columns": [
+        "PPG",
+        "csv_time_PPG"
+    ],
+    "BIDSVersion": "1.6.0"
+}
